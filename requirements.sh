@@ -4,8 +4,8 @@
 sudo apt-get -y update;
 sudo apt-get -y upgrade;
 sudo apt-get install -y amass;
-sudo apt install nmap
-sudo apt install sublist3r
+sudo apt install nmap;
+sudo apt install sublist3r;
 sudo apt-get install -y golang;
 go install -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
 go install github.com/projectdiscovery/katana/cmd/katana@latest
