@@ -7,7 +7,7 @@ Steps to Install:
 2. cd Recon-Tools
 3. bash Requirements.sh
 
-Tools included - `Amass`, `Nmap` `Sublist3r`, `Golang`, `Katana`, `Httpx`, `Subfinder`, `Naabu`, `Interactsh`
+Tools included - `Amass`, `Nmap` `Sublist3r`, `Golang`, `Nuclei`, `Katana`, `Httpx`, `Subfinder`, `Naabu`, `Interactsh`
 
 Made by
 `Satya Prakash` | `0xKayala` \
