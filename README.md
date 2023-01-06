@@ -5,7 +5,7 @@ The information-gathering phase consists of Google search engine reconnaissance,
 Steps to Install:
 1. git clone https://github.com/0xKayala/Recon-Tools.git
 2. cd Recon-Tools
-3. bash Requirements.sh
+3. bash requirements.sh
 
 Tools included - `Amass`, `Nmap` `Sublist3r`, `Golang`, `Nuclei`, `Katana`, `Httpx`, `Subfinder`, `Naabu`, `Interactsh`
 
